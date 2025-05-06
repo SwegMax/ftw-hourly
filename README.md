@@ -1,20 +1,15 @@
-# Sharetribe Flex Template for Web: time-based process
+# Deprecated - Sharetribe Flex Template for Web: time-based process
 
-[![CircleCI](https://circleci.com/gh/sharetribe/ftw-hourly.svg?style=svg)](https://circleci.com/gh/sharetribe/ftw-hourly)
+**Note**: you should use Sharetribe Web Template instead when starting a new project!
+[https://github.com/sharetribe/web-template](https://github.com/sharetribe/web-template)
 
-This is a template web application for a Sharetribe Flex marketplace ready to be extended and
+
+> This is a template web application for a Sharetribe Flex marketplace ready to be extended and
 customized. It is based on an application bootstrapped with
 [create-react-app](https://github.com/facebookincubator/create-react-app) with some additions,
 namely server side rendering and a custom CSS setup.
 
-> Note: We also have two more templates available:
-> [FTW-daily](https://github.com/sharetribe/ftw-daily) and
-> [FTW-product](https://github.com/sharetribe/ftw-product). FTW-daily focuses on day-based booking
-> processes. You can [get it from GitHub](https://github.com/sharetribe/ftw-daily). FTW-product
-> focuses on product marketplace with listing stock management. You can find more information in the
-> [introduction to FTW-product Flex Docs](https://www.sharetribe.com/docs/ftw-introduction/ftw-product/).
-
-This template is using **time-based booking process**. This repository is a fork from the original
+> This template is using **time-based booking process**. This repository is a fork from the original
 [FTW-daily repository](https://github.com/sharetribe/ftw-daily) (which is using nightly booking
 process). So, if you have started working with the original FTW repository and you want to change to
 FTW-hourly, you can
